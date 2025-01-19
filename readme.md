@@ -6,3 +6,6 @@ g++ -std=c++14 originFilename -o outputFileName
 ex: g++ -std=c++14 unique.cpp -o unique
 
 
+vscode 에서 터미널 열기:: ^ + shift + `
+
+terminal / editor 이동 단축키: ^ + `
