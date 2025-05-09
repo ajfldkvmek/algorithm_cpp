@@ -3,6 +3,7 @@
         "iostream": "cpp",
         "cassert": "cpp",
         "ios": "cpp",
-        "ex1": "cpp"
+        "ex1": "cpp",
+        "string": "cpp"
     }
 }
